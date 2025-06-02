@@ -1,6 +1,13 @@
 # 🔥🛡️ Web Application Firewall Home Lab using SafeLine WAF
 
-# Table of Contents
+<a name="1-lab-context"></a>
+## 🧪 1. Lab Context
+
+In this lab, I set up an isolated virtual environment to simulate web application attacks against the Damn Vulnerable Web Application (DVWA) hosted on an Ubuntu VM. The primary goal was to deploy, configure, and test the SafeLine Web Application Firewall (WAF) to evaluate its effectiveness in detecting and blocking common web-based threats.
+
+---
+
+# 🌟 Table of Contents 🌟
 
 - 🧪 [1. Lab Context](#1-lab-context)
 - 🖥️ [2. Lab Environment Setup](#2-lab-environment-setup)
@@ -25,11 +32,7 @@
   - [9.3. Custom Deny Rules (Blocking Kali IP)](#93-custom-deny-rules-blocking-kali-ip)
 - 📝 [10. Conclusion and Lessons Learnt](#10-conclusion-and-lessons-learnt)
 
-<a name="1-lab-context"></a>
-## 🧪 1. Lab Context
-
-In this lab, I created an isolated virtual environment to simulate web application attacks targeting the Damn Vulnerable Web Application (DVWA) running on an Ubuntu VM. The objective was to configure and test the Safeline firewall to see how well it can detect and block these attacks.
-
+---
 <a name="2-lab-environment-setup"></a>
 ## 🖥️ 2. Lab Environment Setup 
 
